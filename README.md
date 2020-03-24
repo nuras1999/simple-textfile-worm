@@ -2,6 +2,7 @@
 THIS IS FOR EDUCATIONAL PURPOSE ONLY.
 
 Programmed using pure PYTHON.
+INSTALL ALL THE REQUIRED MODULES AND PACKAGES BEFORE USE.
 
 This program traverses to all the permitted directories and folders in the system and creates a text file with the given content.
 
